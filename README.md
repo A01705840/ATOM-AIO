@@ -1,5 +1,5 @@
 # ATOM-AIO
-# ⚛︎ ATOM AIO v1.0.0 ⚛︎
+# ⚛︎ ATOM AIO v1.0.1 ⚛︎
 
 Aplicación de escritorio para Windows.
 
@@ -11,7 +11,7 @@ ATOM AIO se distribuye mediante el **Release `v1.0.0`** del repositorio.
 
 1. Abre el repositorio oficial de ATOM AIO en GitHub.
 2. Ve a la sección **Releases**.
-3. Selecciona el release **`v1.0.0`**.
+3. Selecciona el release **`v1.0.1`**.
 4. En la sección **Assets**, descarga el instalador:
 
    `ATOM AIO Setup 1.0.0.exe`
@@ -20,7 +20,7 @@ ATOM AIO se distribuye mediante el **Release `v1.0.0`** del repositorio.
 6. Sigue las instrucciones de instalación.
 7. Abre ATOM AIO desde el acceso directo o desde el menú Inicio.
 
-> **Importante:** descarga el instalador únicamente desde los **Assets del Release `v1.0.0` oficial**. No es necesario descargar el código fuente ni ejecutar archivos `.js` directamente.
+> **Importante:** descarga el instalador únicamente desde los **Assets del Release `v1.0.1` oficial**. No es necesario descargar el código fuente ni ejecutar archivos `.js` directamente.
 
 ---
 
@@ -38,7 +38,7 @@ Esto puede suceder porque el instalador no cuenta con una firma digital reconoci
 
 ### Si descargaste el instalador del Release oficial
 
-Primero verifica que el archivo provenga del **Release `v1.0.0` oficial**.
+Primero verifica que el archivo provenga del **Release `v1.0.1` oficial**.
 
 Si confirmaste su procedencia:
 
@@ -81,7 +81,7 @@ Si aparece:
 
 > **Windows protegió su PC**
 
-verifica primero que hayas descargado `ATOM AIO Setup 1.0.0.exe` desde los Assets del **Release `v1.0.0` oficial**.
+verifica primero que hayas descargado `ATOM AIO Setup 1.0.0.exe` desde los Assets del **Release `v1.0.1` oficial**.
 
 Si la procedencia es correcta, selecciona **Más información → Ejecutar de todas formas**.
 
@@ -119,13 +119,13 @@ Si el problema continúa, proporciona al soporte:
 ## Versión
 
 - **Producto:** ATOM AIO
-- **Versión:** `v1.0.0`
+- **Versión:** `v1.0.1`
 - **Plataforma:** Windows
 - **Instalador:** `ATOM AIO Setup 1.0.0.exe`
 - **Licenciamiento:** Whop key
 
 ## Descarga
 
-**Release:** `v1.0.0`
+**Release:** `v1.0.1`
 
 Descarga el instalador desde la sección **Assets** del Release oficial.
